@@ -23,13 +23,13 @@ email: matthew@pierceinprint.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains technical writing samples written by Matthew Pierce.  Matthew is 
   a Certified Professional Technical Communicator and active member of the Society for 
-  Technical Communication (www.stc.org).
+  Technical Communication.
 baseurl: "techwritingsamples" # use for GH-Pages.  The subpath of your site, e.g. /blog
 #baseurl: "" # for local edit/view
 #url: "https://matthewpierce-itc.github.io/writingsamples/" # base hostname & protocol for your site, e.g. http://example.com
 url: ""
 
-linkedin: matthew-pierce-8241a620
+linkedin_username: matthew-pierce-8241a620
 
 # Build settings
 theme: minima
