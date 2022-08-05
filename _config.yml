@@ -28,6 +28,7 @@ baseurl: "techwritingsamples" # use for GH-Pages.  The subpath of your site, e.g
 #baseurl: "" # for local edit/view
 #url: "https://matthewpierce-itc.github.io/writingsamples/" # base hostname & protocol for your site, e.g. http://example.com
 url: ""
+google_analytics: G-PBM4PV6PE2
 
 # Build settings
 theme: minima
