@@ -164,3 +164,6 @@ Changing the ID cells to have a blue font and and adding an underline will alert
 It is important that the Excel file reside in the same folder as the “exhibits” folder.  The Excel file and exhibit folder can be moved to any other location, even an external drive, and still function.  The paths are relative to one another, and not impacted if placed in further sub-directories.
 
 ![Screen Grab - Relative file location ]({{"/assets/images/26_relativeLocations.png" | relative_url }} )
+
+
+Copyright 2022, Matthew T. Pierce. All rights reserved.
