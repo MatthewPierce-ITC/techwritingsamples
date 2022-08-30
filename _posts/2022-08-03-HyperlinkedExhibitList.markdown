@@ -145,7 +145,7 @@ At this point save the allFiles.txt file and return to the Excel sheet.  Insert 
 
 Copy the entire contents of the allFiles.txt file, now formatted to be hyperlinks for Excel, and paste them into column A of the worksheet.
 
-![Screen Grab - Turn OFf Block Select]({{"/assets/images/assets/22_turnOffBlockSelectAndCopy.png" | relative_url }} )
+![Screen Grab - Turn Off Block Select]({{"/assets/images/22_turnOffBlockSelectAndCopy.png" | relative_url }} )
 
 The result should have the contents of column A displaying only the ID, but when an individual cell is selected the formula bar should display the hyperlink information.
 
