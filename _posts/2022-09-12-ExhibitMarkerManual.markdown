@@ -9,7 +9,7 @@ ExhibitMarker&trade; is an application that I was the sole developer for at Impa
 
 Historically, this was a physical operation done with self-adhesive stickers that were either hand written or pre-printed using templates.  Recently, custom PDF stamps have been utilized, but this was still a time consuming task.  ExhibitMarker&trade; has greater customization options and streamlines the production process to reduce time and errors.
 
-The full documentation can be viewed here:  **<a href="http://matthewpierce-itc.github.io/ExhibitMarkerDocs" target="_blank">Clip Creator 3.0</a>**
+The full documentation can be viewed here:  **<a href="http://matthewpierce-itc.github.io/ExhibitMarkerDocs" target="_blank">ExhibitMarker&trade; Docs</a>**
 
-The product page for the application can be viewed here:  **<a href="http://impacttrial.com/exhibitmarker" target="_blank">Clip Creator 3.0</a>**
+The product page for the application can be viewed here:  **<a href="http://impacttrial.com/exhibitmarker" target="_blank">ExhibitMarker&trade; Product Page</a>**
 
