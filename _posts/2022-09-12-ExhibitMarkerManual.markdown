@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "ExhibitMarker User Manual"
+date:   2022-09-12 08:09:59 -   https://matthewpierce-ITC.github.it/ExhibitMarkerDocs
+categories: User Manuals
+---
+
+ExhibitMarker&trade; is an application that I was the sole developer for at Impact Trial Consulting, LLC.  It enables the user to design and apply custom headers, footers, and PDF stamps to mark documents for identification as required by courts during litigation.
+
+Historically, this was a physical operation done with self-adhesive stickers that were either hand written or pre-printed using templates.  Recently, custom PDF stamps have been utilized, but this was still a time consuming task.  ExhibitMarker&trade; has greater customization options and streamlines the production process to reduce time and errors.
+
+The full documentation can be viewed here:  **<a href="http://matthewpierce-itc.github.io/ExhibitMarkerDocs" target="_blank">Clip Creator 3.0</a>**
+
+The product page for the application can be viewed here:  **<a href="http://impacttrial.com/exhibitmarker" target="_blank">Clip Creator 3.0</a>**
+
