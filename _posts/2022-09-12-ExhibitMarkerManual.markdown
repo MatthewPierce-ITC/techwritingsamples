@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ExhibitMarker User Manual"
-date:   2022-09-12 08:09:59 -   https://matthewpierce-ITC.github.it/ExhibitMarkerDocs
+date:   2022-09-12 08:09:59 -0400
 categories: User Manuals
 ---
 
