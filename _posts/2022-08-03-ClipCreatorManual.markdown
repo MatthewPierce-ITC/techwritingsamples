@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Clip Creator 3.0 User Manual"
-date:   2022-08-03 08:09:59 -   https://matthewpierce-ITC.github.it/clipcreatordocs
+date:   2022-08-03 08:09:59
 categories: User Manuals
 ---
 
